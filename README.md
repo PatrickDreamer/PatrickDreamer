@@ -8,7 +8,7 @@
 
 - ❓ Ask me about anything related to React, JavaScript and related technologies
 
-- ⚡ Fun fact: Nature and Fishing Lover
+- ⚡ Fun fact: Nature Lover
 
 <br/>
 
