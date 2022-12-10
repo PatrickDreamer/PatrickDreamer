@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Patrick, a front-end engineer/software engineer 👨‍💻 working at Nimo Industries since 2022 🚀</div>
+### <div align="center">I'm Patrick, a software engineer 👨‍💻 working at Nimo Industries since 2022 🚀</div>
 
 - 🔭 I’m currently working on [Watch Gallery full-stack app](https://github.com/PatrickDreamer/watch-gallery/tree/master)
 
