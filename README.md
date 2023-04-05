@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Patrick, a software engineer 👨‍💻 working at Nimo Industries since 2022 🚀</div>
+### <div align="center">I'm Patrick, a software engineer 👨‍💻 working at Ippon Australia since 2023 🚀</div>
 
 
 - 🌱 I’m currently learning Java and AWS
