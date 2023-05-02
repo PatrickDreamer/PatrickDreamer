@@ -3,12 +3,6 @@
 ### <div align="center">I'm Patrick, a software engineer 👨‍💻 working at Ippon Australia since 2023 🚀</div>
 
 
-- 🌱 I’m currently learning Java and AWS
-
-- ❓ Ask me about anything related to React, JavaScript and related technologies
-
-- ⚡ Fun fact: diving and fishing
-
 <br/>
 
 ## My Skill Set
