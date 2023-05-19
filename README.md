@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Patrick, a software engineer 👨‍💻 working at Ippon Australia since 2023 🚀</div>
+### <div align="center">I'm Patrick, a software engineer 👨‍💻 working at Ippon Australia 🚀</div>
 
 
 <br/>
